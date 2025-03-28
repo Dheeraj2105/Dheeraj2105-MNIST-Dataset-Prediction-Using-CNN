@@ -44,5 +44,5 @@ streamlit run mnist_app.py
 
 ### 📧 **Contact**
 - ✉️ Email: jangadheeraj21@gmail..com
-- 🔗 GitHub: 
+- 🔗 GitHub: https://github.com/Dheeraj2105
 
